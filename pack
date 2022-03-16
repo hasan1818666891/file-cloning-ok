@@ -2,4 +2,4 @@ requests
 termcolor
 colorama
 bs4
-
+mechanize
